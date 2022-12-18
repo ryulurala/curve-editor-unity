@@ -1,2 +1,2 @@
-# path-creator-unity
-Implements path creator in Unity
+# curve-editor-unity
+Implements curve editor in Unity
